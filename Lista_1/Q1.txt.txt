@@ -1,0 +1,6 @@
+1. Um objeto é uma estrutura de dados que permite armazenar e organizar dados de diferentes tipos. Eles consistem em pares de chave-valor, onde cada chave é uma string e cada valor pode ser de qualquer tipo de dado, incluindo outros objetos, arrays ou funções.
+2. Em JavaScript, atributos são as propriedades de um objetos, ou seja, são as chaves dos objetos.
+3. São as funções que estão associadas ou pertencem a uma classe.
+4. É uma construção que permite criar objetos.
+5. É um método especial dentro de uma classe que é chamado automaticamente quando uma nova instância dessa classe é chamada. O construtor é responsável por inicializar os objetos criados a partir da classe.
+6. A herança de classes em JavaScript permite que uma classe herde atributos e métodos de uma classe pai. Um exemplo é uma classe chamada "carro 1.0", onde ela vai receber os atributos e metodos da classe "carro".
