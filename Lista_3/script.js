@@ -39,11 +39,13 @@ function alteraCor() {
     rodape.style.backgroundColor = input2.value;
   }
 }
+//step 4
 function alteraFont() {
   const input3 = document.getElementById('input3');
   const divSobre = document.getElementById('sobre');
   divSobre.style.fontFamily = input3.value;
 }
+//step 5
 function alteraModo(tema) {
   const conteudo = document.getElementById('conteudo');
   if (tema == 'claro') {
