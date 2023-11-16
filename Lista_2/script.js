@@ -8,6 +8,7 @@ alert(noticiaPrincipal.innerHTML);
 const h1 = document.getElementsByTagName('h1');
 for (let i = 0; i < h1.length; i++) {
   h1[i].style.color = 'red';
+  h1[i].style.fontWeight = 'bold';
 }
 
 // step 3
